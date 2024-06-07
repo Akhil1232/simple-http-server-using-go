@@ -21,6 +21,4 @@
 go.work
 go.work.sum
 
-#Linux executable
-/home/akhil/simple-http-server-using-go/go-server
-.gitignore
+
